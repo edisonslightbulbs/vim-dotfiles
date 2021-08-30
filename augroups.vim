@@ -29,10 +29,10 @@ augroup hide_signs
 augroup END
 
 " line wrapping:
-augroup wrap_lines
-    autocmd!
-    autocmd BufRead,BufNewFile * setlocal textwidth=80
-augroup END
+" augroup wrap_lines
+"     autocmd!
+"     autocmd BufRead,BufNewFile * setlocal textwidth=80
+" augroup END
 
 " theme overrides:
 augroup set_colors
