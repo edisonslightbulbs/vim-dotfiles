@@ -43,7 +43,7 @@ filetype indent on
 filetype plugin on
 
 " line wrap
-set wrap
+set nowrap
 set colorcolumn=65,80
 
 " number line style (keep order!)
